@@ -1,0 +1,9 @@
+
+
+SELECT t0.`Atmosphere` AS `t0_Atmosphere`, FROM_UNIXTIME(t0.$event_time/1000,'%Y-%m-%d %h:%i:%s') AS t0_event_time
+-- TIME TRANSFORM
+FROM ${ADD YOUR OWN SQL} t0
+-- YOU CAN FIND IT IN THE SQL
+WHERE t0.$event_time >= unix_timestamp(now()) * 1000 - 3600 * 1000
+	AND t0.$event_time < unix_timestamp(now()) * 1000
+  AND t0.`Atmosphere` != null
