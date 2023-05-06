@@ -24,7 +24,7 @@ static WiFiClient espClient;
 #include <AliyunIoTSDK.h>
 #define PRODUCT_KEY "a17HV9XJkYo"
 #define DEVICE_NAME "SENSOR_SERVE"
-#define DEVICE_SECRET "e589f8f54edded43f11f27a3b523844a"
+#define DEVICE_SECRET " your secret name"
 #define REGION_ID "cn-shanghai"
 
 // 设置 wifi 信息
