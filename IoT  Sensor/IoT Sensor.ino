@@ -22,15 +22,15 @@ static WiFiClient espClient;
 
 // 引入阿里云 IoT SDK
 #include <AliyunIoTSDK.h>
-#define PRODUCT_KEY "a17HV9XJkYo"
+#define PRODUCT_KEY "YOUUR KEY"
 #define DEVICE_NAME "SENSOR_SERVE"
 #define DEVICE_SECRET " your secret name"
 #define REGION_ID "cn-shanghai"
 
 // 设置 wifi 信息
 
-#define WIFI_SSID       "HORNOR"//替换自己的WIFI
-#define WIFI_PASSWD     "yoyo123ttt"//替换自己的WIFI
+#define WIFI_SSID       "YOUR ID"//替换自己的WIFI
+#define WIFI_PASSWD     "YOUR PASSWORD"//替换自己的WIFI
 
 
 
