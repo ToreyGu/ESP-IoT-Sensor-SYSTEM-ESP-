@@ -30,5 +30,5 @@ https://github.com/ToreyGu/ESP-IoT-Sensor-SYSTEM-ESP-/assets/77352146/7cb6acc0-3
 
 https://github.com/ToreyGu/ESP-IoT-Sensor-SYSTEM-ESP-/assets/77352146/85e79f1f-11f5-4d39-8480-eedbfedfa8e4
 
-
+*Copyright © 2023 Tianyi Gu rights reserved.*
 
